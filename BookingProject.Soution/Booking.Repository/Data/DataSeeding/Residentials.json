@@ -1,0 +1,48 @@
+[
+  {
+    "ResidentialName": "Mivida",
+    "Rooms": "5",
+    "Area": "250M",
+    "Location": "New Cairo",
+    "Beds": "8Beds",
+    "Baths":"2Baths",
+    "Price": 3500000
+  },
+  {
+    "ResidentialName": "Nakheel",
+    "Rooms": "7",
+    "Area": "300M",
+    "Location": "ElShiekh Zayd",
+    "Beds": "13Beds",
+    "Baths":"3Baths",
+    "Price": 5000000
+  },
+  {
+    "ResidentialName": "Balm Hills",
+    "Rooms": "3",
+    "Area": "180",
+    "Location": "October",
+    "Beds": "3Beds",
+    "Baths":"1Baths",
+    "Price": 2600000
+  },
+  {
+    "ResidentialName": "Madenty",
+    "Rooms": "6",
+    "Area": "280",
+    "Location": "Madenty",
+    "Beds": "9Beds",
+    "Baths":"4Baths",
+    "Price": 3200000
+  },
+  {
+    "ResidentialName": "Garden City",
+    "Rooms": "5",
+    "Area": "150",
+    "Location": "New Cairo",
+    "Beds": "2Beds",
+    "Baths":"1Baths",
+    "Price": 1800000
+  }
+ 
+]

@@ -1,0 +1,12 @@
+F:\Projects.Asp.net\BookingProject.Soution\Bookimg.Core\bin\Debug\net5.0\Booking.Core.deps.json
+F:\Projects.Asp.net\BookingProject.Soution\Bookimg.Core\bin\Debug\net5.0\Booking.Core.dll
+F:\Projects.Asp.net\BookingProject.Soution\Bookimg.Core\bin\Debug\net5.0\ref\Booking.Core.dll
+F:\Projects.Asp.net\BookingProject.Soution\Bookimg.Core\bin\Debug\net5.0\Booking.Core.pdb
+F:\Projects.Asp.net\BookingProject.Soution\Bookimg.Core\obj\Debug\net5.0\Booking.Core.csproj.AssemblyReference.cache
+F:\Projects.Asp.net\BookingProject.Soution\Bookimg.Core\obj\Debug\net5.0\Booking.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects.Asp.net\BookingProject.Soution\Bookimg.Core\obj\Debug\net5.0\Booking.Core.AssemblyInfoInputs.cache
+F:\Projects.Asp.net\BookingProject.Soution\Bookimg.Core\obj\Debug\net5.0\Booking.Core.AssemblyInfo.cs
+F:\Projects.Asp.net\BookingProject.Soution\Bookimg.Core\obj\Debug\net5.0\Booking.Core.csproj.CoreCompileInputs.cache
+F:\Projects.Asp.net\BookingProject.Soution\Bookimg.Core\obj\Debug\net5.0\Booking.Core.dll
+F:\Projects.Asp.net\BookingProject.Soution\Bookimg.Core\obj\Debug\net5.0\ref\Booking.Core.dll
+F:\Projects.Asp.net\BookingProject.Soution\Bookimg.Core\obj\Debug\net5.0\Booking.Core.pdb

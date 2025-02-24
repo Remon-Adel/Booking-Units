@@ -1,0 +1,15 @@
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\bin\Debug\net5.0\Booking.Repository.deps.json
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\bin\Debug\net5.0\Booking.Repository.dll
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\bin\Debug\net5.0\ref\Booking.Repository.dll
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\bin\Debug\net5.0\Booking.Repository.pdb
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\bin\Debug\net5.0\Booking.Core.dll
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\bin\Debug\net5.0\Booking.Core.pdb
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\obj\Debug\net5.0\Booking.Repository.csproj.AssemblyReference.cache
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\obj\Debug\net5.0\Booking.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\obj\Debug\net5.0\Booking.Repository.AssemblyInfoInputs.cache
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\obj\Debug\net5.0\Booking.Repository.AssemblyInfo.cs
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\obj\Debug\net5.0\Booking.Repository.csproj.CoreCompileInputs.cache
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\obj\Debug\net5.0\Booking.Repository.csproj.CopyComplete
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\obj\Debug\net5.0\Booking.Repository.dll
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\obj\Debug\net5.0\ref\Booking.Repository.dll
+F:\Projects.Asp.net\BookingProject.Soution\Booking.Repository\obj\Debug\net5.0\Booking.Repository.pdb
